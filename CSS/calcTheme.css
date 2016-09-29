@@ -20,7 +20,7 @@ html {
 
 /* Using box shadows to create 3D effects */
 #calculator {
-	width: 325px;
+	width: 375px;
 	height: auto;
 	
 	margin: 100px auto;
@@ -92,10 +92,7 @@ html {
 
 /* Remove right margins from operator keys */
 /* style different type of keys (operators/evaluate/clear) differently */
-.keys span.operator {
-	background: #FFF0F5;
-	margin-right: 0;
-}
+
 
 .keys span.eval {
 	background: #f1ff92;
